@@ -1,2 +1,4 @@
 # -String-manipulation.
-string manipulation
+print("hello world\nhello vinod")
+print("hello"+" world")
+print("hello "+"vinod")
